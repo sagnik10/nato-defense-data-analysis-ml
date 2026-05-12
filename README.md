@@ -1,7 +1,5 @@
 # 🌍 NATO Alliance Complete Dataset 2024
 
-![NATO](https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Flag_of_NATO.svg/320px-Flag_of_NATO.svg.png)
-
 ## 📌 About This Dataset
 
 A comprehensive, cleaned dataset covering **all 32 NATO member countries** with three interconnected files spanning **10,700+ rows** of data on country statistics, military equipment, and NATO operations/missions from **1949 to 2024**.
